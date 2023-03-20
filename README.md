@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Cloud & DevOps**
 
-- 📫 How to reach me **martingerlyn@gmail.com**
-
 - ⚡ Fun fact **I can't Sleep Without Reviving Server**
 
 ### Blogs posts
